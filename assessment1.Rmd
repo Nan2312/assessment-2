@@ -1,6 +1,6 @@
 ---
 title: "Assessment 1"
-author: "Nandani -- S4627426"
+author: "Nandini -- S4627426"
 date: "28th Aug 2022"
 ---
 
