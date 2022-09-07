@@ -1,7 +1,7 @@
 
 ---
 title: "Assessment 2"
-author: "Nandani S4627426"
+author: "Nandini S4627426"
 date: "2022-08-28"
 output: html_document
 ---
